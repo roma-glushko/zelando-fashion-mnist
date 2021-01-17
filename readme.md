@@ -2,6 +2,12 @@
 
 Fashion MNIST is a dataset of 28x28 gray-scale pictures of 10 types of clothes to perform multi-class classification.
 
+## Project Installation
+
+```bash
+poetry install
+```
+
 ## Dataset Installation
 
 ```bash
