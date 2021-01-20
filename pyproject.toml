@@ -6,7 +6,7 @@ authors = ["Roman Glushko <roman.glushko.m@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = ">=3.8,<3.9"
 ipykernel = "^5.4.3"
 numpy = "^1.19.5"
 scipy = "^1.6.0"
@@ -20,6 +20,9 @@ keras-tuner = "^1.0.2"
 witwidget = "^1.7.0"
 tensorboard-plugin-profile = "^2.4.0"
 wandb = "^0.10.14"
+keras-vis = "^0.4.1"
+shap = "^0.38.1"
+tf-keras-vis = "^0.5.5"
 
 [tool.poetry.dev-dependencies]
 
