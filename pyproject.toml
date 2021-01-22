@@ -19,10 +19,10 @@ seaborn = "^0.11.1"
 keras-tuner = "^1.0.2"
 witwidget = "^1.7.0"
 tensorboard-plugin-profile = "^2.4.0"
-wandb = "^0.10.14"
 keras-vis = "^0.4.1"
 shap = "^0.38.1"
-tf-keras-vis = "^0.5.5"
+visualkeras = "^0.0.1"
+keract = "^4.3.4"
 
 [tool.poetry.dev-dependencies]
 
